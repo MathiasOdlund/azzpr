@@ -1,4 +1,4 @@
-﻿### Hi there 👋, My name is Mathias
+﻿### Hi there 👋, My name is Tom Bents
 #### I'm a full-stack web developer
 ![I'm a full-stack web developer](https://ibb.co/18F8V5v)
 
