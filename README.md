@@ -8,7 +8,7 @@ Skills: Python/ JavaScript / TypeScript / C++
 
 - 🔭 I’m currently working on Lumotist (Full-stack movie tracker) 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: azzpr@protonmail.com
+- 📫 How to reach me: mathiasodlund@protonmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzpr)](https://github.com/anuraghazra/github-readme-stats)
